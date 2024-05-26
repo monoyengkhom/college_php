@@ -1,4 +1,4 @@
-To download the folder in you website: \n
+To download the folder in you website: 
  git clone https://github.com/monoyengkhom/college_php.git
 
 Specially for question 11 login system on windows
